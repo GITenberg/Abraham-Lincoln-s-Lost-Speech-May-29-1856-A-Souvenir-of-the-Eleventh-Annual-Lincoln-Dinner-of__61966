@@ -1,0 +1,37 @@
+_repo: Abraham-Lincoln-s-Lost-Speech-May-29-1856-A-Souvenir-of-the-Eleventh-Annual-Lincoln-Dinner-of__61966
+_version: 0.0.1
+contributor:
+  other_contributor:
+    agent_name: Whitney, Sarah A.
+    gutenberg_agent_id: '51702'
+    url: http://www.gutenberg.org/2009/agents/51702
+creator:
+  author:
+    agent_name: Lincoln, Abraham
+    aliases:
+    - Lincoln, Abe
+    - United States President (1861-1865)
+    birthdate: 1809
+    deathdate: 1865
+    gutenberg_agent_id: '3'
+    url: http://www.gutenberg.org/2009/agents/3
+    wikipedia: http://en.wikipedia.org/wiki/Abraham_Lincoln
+description: ''
+gutenberg_issued: '2020-04-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61966'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Abraham Lincoln''s Lost Speech, May 29, 1856
+
+  A Souvenir of the Eleventh Annual Lincoln Dinner of the
+
+  Republican Club of the City of New York, at the Waldorf,
+
+  February 12, 1897'
+url: http://www.gutenberg.org/ebooks/61966
